@@ -20,5 +20,8 @@
   "homepage": "https://github.com/NenevAleksey/IP-Address-Tracker#readme",
   "devDependencies": {
     "parcel": "^2.7.0"
+  },
+  "dependencies": {
+    "leaflet": "^1.9.2"
   }
 }
