@@ -1,6 +1,6 @@
 # Frontend Mentor - IP address tracker
 
-# [GitHub Pages](https://nenevaleksey.github.io/Stellar-Burger/)
+# [GitHub Pages](https://nenevaleksey.github.io/IP-Address-Tracker)
 
 ### **Содержание**
   - [О проекте](#О-проекте)
