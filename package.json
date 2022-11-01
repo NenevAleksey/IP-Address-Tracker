@@ -2,10 +2,11 @@
   "name": "ip-address-tracker-master",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "source": "src/index.js",
+  "main": "dist/main.js",
   "scripts": {
     "start": "parcel index.html --open",
-    "build": "parcel build index.html --out-dir=build"
+    "build": "parcel build"
   },
   "repository": {
     "type": "git",
